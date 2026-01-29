@@ -1,0 +1,7 @@
+torch
+safetensors
+diffusers
+transformers
+accelerate
+Pillow
+pyinstaller
