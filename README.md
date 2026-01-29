@@ -72,5 +72,8 @@ A standalone Windows GUI application to decode ComfyUI latent files (`.latent`, 
 
 ---
 
+<img width="1052" height="1023" alt="图片" src="https://github.com/user-attachments/assets/16f5c2bb-e833-4e4f-87e2-54fa67a3e176" />
+
+
 ## License
 MIT License. Created by [madlaxcb](https://github.com/madlaxcb).
